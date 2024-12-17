@@ -1,37 +1,37 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "Book",
+    "name": "笔记",
+    "link": "https://notes.smallbamboo.cn/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "关于我",
+    "link": "https://www.smallbamboo.cn/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "CompactDisc",
+    "name": "听歌排行",
+    "link": "https://api.smallbamboo.cn/listening_ranking/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Blog",
+    "name": "秋竹源",
+    "link": "https://qzystu.cn/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "Server",
+    "name": "小竹VPS",
+    "link": "https://xzvps.top/"
+  },
+  {
+    "icon": "Warehouse",
+    "name": "我的项目",
+    "link": "https://www.smallbamboo.cn/projects/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "http://info.xzvps.top/"
   }
 ]
